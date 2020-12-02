@@ -47,3 +47,11 @@ modified: '2020-12-02T04:32:13.978Z'
 
 
 
+**Font Family:** Montserrat,Arial,sans-serif;
+
+**Screen Shots**
+
+![hours screen](./src/images/homeview.png)
+
+![hours screen](./src/images/hoursview.png)
+
